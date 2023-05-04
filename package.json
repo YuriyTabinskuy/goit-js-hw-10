@@ -1,5 +1,5 @@
 {
-  "name": "goit-js-hw-10",
+  "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
   "homepage": "https://YuriyTabinskuy.github.io/goit-js-hw-10",
@@ -9,18 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YuriyTabinskuy/goit-js-hw-10.git"
+    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/YuriyTabinskuy/goit-js-hw-10/issues"
+    "url": "https://github.com/goitacademy/parcel-project-template/issues"
   },
   "dependencies": {
-    "lodash.debounce": "^4.0.8",
-   
-    "notiflix": "^3.2.6"
+    "modern-normalize": "^1.1.0"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
